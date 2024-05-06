@@ -19,18 +19,23 @@
     irm https://massgrave.dev/get | iex
     ```
 -   根据屏幕提示进行操作
--   That's all.
+-   按1 ：永久激活当前安装的window版本（支持所有window版本）
+-   按2 ：永久激活Office
+-   按3 ：本地KMS激活方式，激活Windows至2038年
+-   按4 ：在线KMS激活方式，激活Window和Office，有效期180天，过期后需再次激活
+-   按5 ：查看当前激活状态
+-   按6 ：使用反馈
+-   按7 ：额外选项（包含更换Windows版本，使用这个选项可以更换到Win11专业工作站版，更换后需再次激活，高配电脑推荐使用此版本）
+-   按8 : 帮助
+-   按0 ：退出
 
-### Method 2 - Traditional
+### 方法 2 - 下载后本地启动激活程序
 
--   Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options. Follow the on-screen instructions.
--   That's all.
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches)
+-   下载压缩文件[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip)
+-   解压缩
+-   进入 `All-In-One-Version` 文件夹
+-   运行 `MAS_AIO.cmd`
+-   根据屏幕提示进行操作
 
 </br>
 
@@ -39,9 +44,8 @@ Latest Version: 2.6
 Release date: 20-Apr-2024
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+
+### 从 - [https://massgrave.dev/](https://massgrave.dev/) Fork
 
 ---
 
