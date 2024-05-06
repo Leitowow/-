@@ -8,16 +8,17 @@
 
 <hr>
 
-## Download / How to use it?
+## 使用指南
 
-### Method 1 - PowerShell (Recommended)
+### 方法 1 - PowerShell (推荐)
 
--   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter
+-   点击开始菜单，在搜索里输入Windows PowerShell
+-   点击打开Windows PowerShell
+-   在Windows PowerShell中输入以下命令（可复制后右键单击粘贴）
     ```
     irm https://massgrave.dev/get | iex
     ```
--   You will see the activation options. Follow the on-screen instructions.
+-   根据屏幕提示进行操作
 -   That's all.
 
 ### Method 2 - Traditional
